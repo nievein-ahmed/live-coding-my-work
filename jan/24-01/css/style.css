@@ -23,9 +23,6 @@ body {
 /* The switch */
 
 /* font-awesome */
+
 i {
-  font-size: 50px;
-  color: aqua;
-  box-shadow: 12px 12px 2px 1px rgba(0, 247, 255, 0.2);
-  border-radius: 50%;
 }
